@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on : JKC discord Bot 
 - 🌱 I’m currently learning : Javascript Node.js HTML CSS
-- 👯 I’m looking to collaborate on : Pasitha
+- 👯 I’m looking to collaborate on : Pasitha snd boon
 - 🤔 I’m looking for help with : 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
