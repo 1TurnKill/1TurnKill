@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on : Nothing
-- 🌱 I’m currently learning : Javascript Node.js HTML CSS Python
+- 🌱 I’m currently learning : Javascript Node.js HTML CSS Python Java
 - 👯 I’m looking to collaborate on : Pasitha and boon
 - 🤔 I’m looking for help with :
 - 💬 Ask me about ...
